@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 //Hello there
 //added comment for PULL
+//added comment for PULL command with fetch/merge combined
 public class ReverseWord {
     
     public static void main(String[] args){
